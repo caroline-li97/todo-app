@@ -19,3 +19,31 @@ Express.js, and SQLite.
 ```bash
 git clone https://github.com/your-username/todo-app.git
 cd todo-app
+```
+
+
+### 2. Set up the backend
+```bash
+cd backend
+npm install
+```
+### 3. Start the server
+```bash
+node server.js
+```
+
+### 4. Set up the frontend
+```bash
+cd ../frontend
+npm install
+```
+### 5. Start the frontend application
+```bash
+npm start
+```
+
+## Usage
+- Open your browser and go to http://localhost:3000.
+- Add, view, and delete tasks.
+
+
